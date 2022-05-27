@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_portal"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/student_portal" />
+    </group>
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_elearning"
+            android:icon="@drawable/ic_computer_black_24dp"
+            android:title="@string/e_learning" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_accademics"
+            android:icon="@drawable/ic_accademic"
+            android:title="@string/academics" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_admissions"
+            android:icon="@drawable/ic_addmission"
+            android:title="@string/admission" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_studentsupport"
+            android:icon="@drawable/ic_people"
+            android:title="@string/student_support" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_newsmedia"
+            android:icon="@drawable/ic_new"
+            android:title="@string/news_media_tenders" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_abouts"
+            android:icon="@drawable/ic_aboutschool"
+            android:title="@string/about_school" />
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/app">
+            <menu>
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_share"
+                    android:title="@string/share" />
+                <!--<item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_about"
+                    android:title="About" /> -->
+                <!--
+                                <item
+                                    android:id="@+id/nav_send_feedback"
+                                    android:icon="@drawable/ic_feedback"
+                                    android:title="Send Feedback" />-->
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/ic_rate"
+                    android:title="@string/rate_us_on_google_play" />
+                <!--    <item
+                        android:id="@+id/nav_privacy"
+                        android:title="Privacy Policy" />-->
+
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

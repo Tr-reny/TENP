@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TENP</string>
+    <string name="Navigation_drawer_open">Open navigation drawer</string>
+    <string name="Navigation_drawer_close">Close navigation drawer</string>
+    <string name="www_tenp_com">www.tenp.com</string>
+    <string name="the_eldoret_national_polytechnic">The Eldoret National Polytechnic</string>
+    <string name="student_portal">Student Portal</string>
+    <string name="home">Home</string>
+    <string name="e_learning">E-learning</string>
+    <string name="academics">Academics</string>
+    <string name="admission">Admission</string>
+    <string name="student_support">Student Support</string>
+    <string name="news_media_tenders">News, Media, Tenders</string>
+    <string name="about_school">About School</string>
+    <string name="app">App</string>
+    <string name="share">share</string>
+    <string name="rate_us_on_google_play">Rate Us on Google Play</string>
+</resources>

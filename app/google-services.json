@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361751230437",
+    "project_id": "tenp-38b3a",
+    "storage_bucket": "tenp-38b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361751230437:android:fea91441f36fa1d158210c",
+        "android_client_info": {
+          "package_name": "com.theeldoretnationpolytechnic.tenp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361751230437-b9ln31gf792oav14uj2f011i5nt6ip74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHbZKtHaDTDx_n5geeACKmvIBuqaotSpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361751230437-b9ln31gf792oav14uj2f011i5nt6ip74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
