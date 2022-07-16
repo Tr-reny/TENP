@@ -45,8 +45,8 @@
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/white" />
         <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-4919349632454430~1311004366" />
+              android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+        android:value="true"/>
     </application>
 
 </manifest>
